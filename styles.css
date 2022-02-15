@@ -1,0 +1,124 @@
+* {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 150px;
+  font-family: "Festive", cursive;
+  font-size: 70px;
+  vertical-align: middle;
+  color: #64bebe;
+}
+#sub {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-family: "Festive", cursive;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 30px;
+  color: #64bebe;
+}
+
+.top {
+  height: 800px;
+  width: 100%;
+  background-color: #eaf6f6;
+  text-align: center;
+  position: relative;
+}
+
+#pro {
+  text-decoration: underline;
+}
+
+#cloud1 {
+  position: absolute;
+  right: 100px;
+  top: 15px;
+}
+
+#cloud2 {
+  position: absolute;
+  left: 100px;
+}
+
+#mountain {
+  margin-top: 35px;
+}
+
+#profile_pic {
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+}
+
+h2 {
+  margin-top: 40px;
+  text-align: center;
+  display: block;
+  position: relative;
+  color: #66BFBF;
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  margin-top: 70px;
+  margin-bottom: 30px;
+  margin-left: auto;
+  text-align: left;
+  display: block;
+  position: relative;
+  color: #11999E;
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+#about_me {
+  margin-top: 60px;
+  text-align: center;
+  font-size: 18px;
+  display: block;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 400;
+}
+
+hr {
+  width: 40px;
+  border-top: 5px dotted #b5b8b8;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.skill_section{
+  padding: auto;
+  margin-bottom: 170px;
+}
+#coding_img{
+  margin: 0;
+  padding-right: 20px;
+  float: left;
+}
+
+#skill{
+  text-align: left;
+  margin: 
+}
+
+#photography_img{
+  padding-right: 250px;
+  float: right;
+}
+
+#photography{
+  text-align: left;
+  margin-left: 250px;
+}
+
+
